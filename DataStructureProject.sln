@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataStructureProject", "DataStructureProject\DataStructureProject.vcxproj", "{7E92599F-10C8-4F3C-83E9-20965D3D441E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D6ED4103-CC16-40F3-8E59-124B0843F8EC}"
+	ProjectSection(SolutionItems) = preProject
+		Performance1.psess = Performance1.psess
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E92599F-10C8-4F3C-83E9-20965D3D441E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7E92599F-10C8-4F3C-83E9-20965D3D441E}.Debug|Win32.Build.0 = Debug|Win32
+		{7E92599F-10C8-4F3C-83E9-20965D3D441E}.Release|Win32.ActiveCfg = Release|Win32
+		{7E92599F-10C8-4F3C-83E9-20965D3D441E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
