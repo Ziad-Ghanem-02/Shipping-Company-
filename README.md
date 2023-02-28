@@ -1,2 +1,2 @@
-# Shipping-Company-
+# Shipping-Company
 Data Structures Project
